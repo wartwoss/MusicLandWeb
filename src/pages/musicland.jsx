@@ -21,7 +21,7 @@ export default function MusicLand() {
       <Hero site={SITE} stats={STATS} />
       <About site={SITE} />
       <Products products={PRODUCTS} />
-      <Gallery gallery={GALLERY} />
+      
       <Contact site={SITE} />
       <Location></Location>
       <Footer site={SITE} />
