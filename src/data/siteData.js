@@ -15,12 +15,12 @@ import saxphone from "../assets/imgs/saxophone.jpeg";
 import soprano_saxphone from "../assets/imgs/soprano-saxophone.jpeg";
 import trumpet from "../assets/imgs/trumpet.jpeg";
 
-import Harmonica from "../assets/imgs/harmonica.jpeg"
+import Harmonica from "../assets/imgs/Harmonica.jpeg"
 
 import DJStand from "../assets/imgs/DJStand.jpeg" 
 import keyboardStandBlack from "../assets/imgs/keyboardStandBlack.jpeg" 
 import keyboardStandGold from "../assets/imgs/keyboardStandGold.jpeg" 
-import keyboardStandRed from "../assets/imgs/keyboardstandRed.jpeg" 
+import keyboardStandRed from "../assets/imgs/keyboardStandRed.jpeg" 
 
 import melodicaBolera from "../assets/imgs/melodicaBolera.jpeg"
 import melodicaMaxTor from "../assets/imgs/melodicaMaxTor.jpeg"
