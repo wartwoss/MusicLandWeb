@@ -8,7 +8,7 @@ export default function Location() {
           <div className="location-info">
             <h3>MusicLand Warehouse</h3>
             <p>As Sulaymaniyah, Iraq</p>
-            <p>Industrial Zone – Street 12</p>
+            <p>shahidan street</p>
           </div>
 
           <div className="location-map">
