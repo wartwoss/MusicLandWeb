@@ -20,7 +20,7 @@ import Harmonica from "../assets/imgs/harmonica.jpeg"
 import DJStand from "../assets/imgs/DJStand.jpeg" 
 import keyboardStandBlack from "../assets/imgs/keyboardStandBlack.jpeg" 
 import keyboardStandGold from "../assets/imgs/keyboardStandGold.jpeg" 
-import keyboardStandRed from "../assets/imgs/keyboardStandRed.jpeg" 
+import keyboardStandRed from "../assets/imgs/keyboardstandRed.jpeg" 
 
 import melodicaBolera from "../assets/imgs/melodicaBolera.jpeg"
 import melodicaMaxTor from "../assets/imgs/melodicaMaxTor.jpeg"
