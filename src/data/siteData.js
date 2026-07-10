@@ -16,7 +16,7 @@ import soprano_saxphone from "../assets/imgs/soprano-saxophone.jpeg";
 import trumpet from "../assets/imgs/trumpet.jpeg";
 import elite850 from "../assets/imgs/Elite850.jpg";
 import elite427 from "../assets/imgs/427 elite series.jpg";
-
+import cello650 from "../assets/imgs/cello 650.jpg";
 import Harmonica from "../assets/imgs/Harmonica.jpeg"
 
 import DJStand from "../assets/imgs/DJStand.jpeg" 
@@ -67,7 +67,8 @@ export const PRODUCTS = [
   { name: "Melodica", brands: "BOLERA", image: melodicaBolera},
   { name: "Melodica", brands: "MAXTOR", image: melodicaMaxTor},
   { name: "Elite 850", brands: "LA BELLA", image: elite850},
-  { name: "Elite 427", brands: "LA BELLA", image: elite427},
+  { name: "Elite 427", brands: "LA  BELLA", image: elite427},
+  { name: "Cello 650", brands: "LA BELLA", image: cello650},
 ];
 
 
