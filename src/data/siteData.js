@@ -17,6 +17,8 @@ import trumpet from "../assets/imgs/trumpet.jpeg";
 import elite850 from "../assets/imgs/Elite850.jpg";
 import elite427 from "../assets/imgs/427 elite series.jpg";
 import cello650 from "../assets/imgs/cello 650.jpg";
+import violin630 from "../assets/imgs/violin 630.jpg";
+import vivace from "../assets/imgs/vivace viv-h.jpg";
 
 import flamenco2001 from "../assets/imgs/flamenco 2001.jpg";
 import arabictuningoud from "../assets/imgs/arabic tuning oud.jpg";
@@ -55,11 +57,14 @@ export const STATS = [
 ];
 
 export const PRODUCTS = [
+
   { name: "Elite 850", brands: "LA BELLA", image: elite850},
   { name: "Elite 427", brands: "LA  BELLA", image: elite427},
   { name: "Cello 650", brands: "LA BELLA", image: cello650},
   { name: "Flamenco 2001", brands: "LA BELLA", image: flamenco2001},
   { name: "La Bella OU80-A Arabic Tuning Oud Strings", brands: "LA BELLA", image: arabictuningoud},
+{ name: "violin630", brands: "LA BELLA", image: violin630},
+{ name: "Vivace VIV-H", brands: "LA BELLA", image: vivace},
   { name: "m10 Guitar", brands: "BOLERA", image: m10 },
   { name: "m20 Guitar", brands: "BOLERA", image: m20 },
   { name: "m30 Guitar", brands: "BOLERA", image: m30 },
@@ -79,6 +84,8 @@ export const PRODUCTS = [
   { name: "Harmonica", brands: "EAST TOP", image: Harmonica},
   { name: "Melodica", brands: "BOLERA", image: melodicaBolera},
   { name: "Melodica", brands: "MAXTOR", image: melodicaMaxTor},
+  
+
 
 ];
 
