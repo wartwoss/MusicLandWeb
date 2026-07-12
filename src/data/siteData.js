@@ -39,14 +39,14 @@ import melodicaMaxTor from "../assets/imgs/melodicaMaxTor.jpeg"
 
 export const SITE = {
   name: "Music Land",
-  tagline: "Iraq's local Music Instrument Distributor",
+  tagline: "Sound System & Musical Instruments",
   founded: "2022",
   description:
-    "For over 4 years, Music Land has been the trusted source for professional and amateur musicians across Iraq. Based in Sulaymaniyah, we supply, distribute, and wholesale a wide range of musical instruments.",
-  address: "Sulaymaniyah, Kurdistan Region, Iraq",
-  phone: "+964 770 158 4667",
-  email: "sahand.om99@gmail.com",
-  whatsapp: "+964 770 158 4667",
+    "A formally registered company specializing in sound systems and musical instruments. We supply and distribute musical instruments locally.",
+  address: "Iraq, Sulaimani, Shahidan Street",
+  phone: "+964 770 164 0963",
+  email: "musicland790@gmail.com",
+  whatsapp: "+964 770 164 0963",
 };
 
 export const STATS = [
